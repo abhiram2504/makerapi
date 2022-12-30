@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+I leanred about React.js and API fetching.
+This website uses API from Edumam.com. The api has a lot a food recipes, check it out to find more.
+Familiarized myself with:
+React.js Hooks (State/Effect)
+Asynchronous API (async/await)
+JSX, components, props, css modules, etc.
+
