@@ -1,25 +1,23 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  return (
+const App = () => {
+
+  const APP_ID = "e3b8e07d";
+  const APP_KEY = "77ea5d3449649d50105466c81610163d";
+
+
+
+  return(
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>This is a recipe making website.</h1>
+      <form className="search-form">
+        <input type="text" className="search-bar" name="recipesearch" placeholder="enter your recipie...">Enter your recipe</input>
+        <button type="submit" className="serach-button">makeIT!</button>
+      </form>
     </div>
-  );
+  )
 }
 
 export default App;
