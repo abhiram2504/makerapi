@@ -45,10 +45,10 @@ const getRecipe = async() =>{
 
 function totaltiming(recipe){
   const total = recipe.recipe.totalTime;
-  if(total != 0){
+  if(total !== 0){
     return total
   }
-  return "Not avaiable";
+  return "Not available";
 }
 
 //creating a fucniton  for seraching in the input box.
