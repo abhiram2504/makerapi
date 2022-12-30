@@ -69,6 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### makerAPI
 I leanred about React.js and API fetching.
 This website uses API from Edumam.com. The api has a lot a food recipes, check it out to find more.
 Familiarized myself with:
