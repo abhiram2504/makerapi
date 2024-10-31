@@ -5,8 +5,8 @@ import './App.css';
 
 const App = () => {
 
-  const APP_ID = "e3b8e07d";
-  const APP_KEY = "77ea5d3449649d50105466c81610163d";
+  // const APP_ID = "e3b8e07d";
+  // const APP_KEY = "77ea5d3449649d50105466c81610163d";
 
 
 //crating a state to get teh data that comes from the api.
